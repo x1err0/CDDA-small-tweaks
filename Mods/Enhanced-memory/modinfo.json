@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "enhanced_memory",
+    "name": "No Skill Rust",
+    "authors": [ "x1err0" ], 
+    "description": "Adds a trait to remove skill rust. The trait is called enhanced memory.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
