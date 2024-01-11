@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_encum",
+    "name": "No encumbrance",
+    "authors": [ "x1err0" ], 
+    "description": "Adds trait to remove encumberence.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
