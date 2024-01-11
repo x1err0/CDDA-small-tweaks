@@ -1,0 +1,15 @@
+[
+{
+    "type": "mutation",
+    "id": "enhanced_memory",
+    "name": { "str": "Enhanced Memory" },
+    "points": 1,
+    "description": "Your memory is enhanced to the point you never forget any skill you learned.",
+    "types": [ "MEMORY" ],
+    "skill_rust_multiplier": 0,
+    "starting_trait": true,
+    "valid": false,
+    "cancels": [ "FORGETFUL", "GOODMEMORY" ]
+  ]
+}
+]
