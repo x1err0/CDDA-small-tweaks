@@ -8,6 +8,6 @@
     "starting_trait": true,
     "valid": false,
     "encumbrance_always":  [ [ "head", -9999  ], [ "torso", -9999  ], [ "mouth", -9999  ], [ "leg_l", -9999  ], [ "leg_r", -9999  ], [ "foot_l", -9999  ], [ "foot_r", -9999  ], [ "hand_l", -9999 ], [ "hand_r", -9999 ], [ "arm_l", -9999  ], [ "arm_r", -9999  ], [ "eyes", -9999 ] ]
-    //I don't remember but i belive i also tried encumbrance_multiplier_always and this one seems  encumbrance_always is more effective as far as i have seen idk i dont have programming experience.
+    //I don't remember but i belive i also tried encumbrance_multiplier_always and looks like encumbrance_always is more effective as far as i have seen idk i dont have programming experience.
 }
 ]
